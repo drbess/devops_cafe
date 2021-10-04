@@ -1,1 +1,1 @@
- Welcome to the devops_cafe
+ Welcome to the DevOps Cafe
