@@ -6,7 +6,7 @@
 # 2021-09-27
 #
 ########################
-echo "Ok so when isntalling software, the goal is to work smart not hard right!"
+echo "Ok so when isntalling software, the goal is to work smart not hard..."
 echo "     "
 echo "This script will install Docker and all it's dependences, because typing commands is doing the most!"
 echo "     "

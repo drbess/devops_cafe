@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+# NOTE: MAKE SURE YOU HAVE DOCKER INSTALLED
 # This  script will pull a Docker image
 #
 # Pull the latest alpine image from Docker Hub.
